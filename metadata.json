@@ -1,0 +1,6 @@
+{
+  "name": "PRATIKBOX – Ücretsiz Online Araçlar Platformu",
+  "description": "İhtiyacın olan bütün araçlar, tek yerde. PDF, görsel, metin, geliştirici, SEO, güvenlik ve tasarım araçları — hızlı, güvenli ve tamamen ücretsiz tarayıcı içi işlem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
